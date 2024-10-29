@@ -24,7 +24,7 @@ export default function Dashboard() {
   const [compitable,setCompitable] = useState(null);
   const getEmbeddings = async (text: string) => {
     const apiUrl = 'https://api-inference.huggingface.co/models/sentence-transformers/all-MiniLM-L6-v2'; // Example model
-    const apiKey = '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'; // Store your API key in .env.local
+    const apiKey = ''; // Store your API key in .env.local
   
     try {
       const response = await fetch(apiUrl, {
