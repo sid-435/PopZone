@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Resume Review",
+    "time": "2024-10-29T10:45",
+    "location": "Tutoring Center ECG",
+    "numOfPeople": 1,
+    "description": "Come get your resume review by peers and mentors",
+    "admin": "currentUser",
+    "isOpen": true
+  },
+  {
+    "title": "Code Devils",
+    "time": "2024-10-31T10:46",
+    "location": "Hayden Library",
+    "numOfPeople": 1,
+    "description": "General Meeting",
+    "admin": "currentUser",
+    "isOpen": true
+  },
+  {
+    "title": "Business",
+    "time": "2024-11-01T10:47",
+    "location": "Hassayampa Dorms",
+    "numOfPeople": 1,
+    "description": "Freshman meet and greet for business majors",
+    "admin": "currentUser",
+    "isOpen": true
+  },
+  {
+    "title": "React Session",
+    "time": "2024-10-28T10:00",
+    "location": "Hayden Library",
+    "numOfPeople": 2,
+    "description": "Learn more about React",
+    "admin": "currentUser",
+    "isOpen": true
+  },
+  {
+    "title": "CS",
+    "time": "2024-10-28T18:00",
+    "location": "Engineering Center",
+    "numOfPeople": 1,
+    "description": "Come and learn about DSA",
+    "admin": "currentUser",
+    "isOpen": true
+  }
+]

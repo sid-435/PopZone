@@ -1,0 +1,19 @@
+[
+  {
+    "username": "Test1",
+    "password": "test1234",
+    "university": "ASU",
+    "year": "junior",
+    "major": "Computer Science",
+    "minor": "Data Science",
+    "interest": [
+      "Poker"
+    ],
+    "skills": [
+      "Python",
+      "SQL"
+    ],
+    "personalityVector": null,
+    "interestVector": null
+  }
+]
